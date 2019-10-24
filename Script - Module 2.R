@@ -14,7 +14,7 @@
 2 + 3
 
 # Now try experimenting with some basic calculations. Also, try using this operator
-# ^ (or **). Do you know what it does?
+# ^ (or **). Do you know what it does? YES WE DO
 
 
 # WHAT ARE COMMENTS? ------------------------------------------------------
